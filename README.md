@@ -7,6 +7,7 @@
 - git commit -m "Footerในindex"
 - git add details.html
 - git commit -m "สถาณที่เที่ยวที่1"  
+- git add details.html
 - git commit -m "สถาณที่เที่ยวที่2"
 - git add details.html
 - git commit -m "สถาณที่เที่ยวที่3"
