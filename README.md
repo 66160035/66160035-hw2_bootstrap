@@ -26,3 +26,5 @@
 - git commit -m "About Section"
 - git add README.md
 - git commit -m "gitที่ใช้"
+- git add .
+- git commit -m "แก้ไขคำผิด"
