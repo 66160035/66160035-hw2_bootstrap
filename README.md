@@ -1,1 +1,28 @@
 # 66160035-hw2_bootstrap
+- git add index.html
+- commit -m "ใส่Headerหน้าindex"
+- git add index.html
+- git commit -m "Hero Section"
+- git add index.html
+- git commit -m "Footerในindex"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่1"  
+- git commit -m "สถาณที่เที่ยวที่2"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่3"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่4"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่5"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่6"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่7"
+- git add details.html
+- git commit -m "สถาณที่เที่ยวที่8"
+- git add contact.html
+- git commit -m "เพิ่มformในcontact"
+- git add about.html
+- git commit -m "About Section"
+- git add README.md
+- git commit -m "gitที่ใช้"
